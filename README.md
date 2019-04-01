@@ -9,10 +9,11 @@ This packages add `__mifflin__` to all python objects.
 
 
 # License
-This packages is distibuted under an Apache License.
+Apache 2.0 - See [the LICENSE](LICENSE) for more information.
+
 
 # Dependencies
-This package uses two dependencies
+This package has the following dependencies
 
-- asciimatics handles reprinting over existing text on the screen (License Apache)
-- forbiddenfruit handles patching the built in types of Python (License GPLv3)
+- asciimatics, which handles reprinting over existing text on the screen (Apache)
+- forbiddenfruit, which handles patching the built in types of Python (GPLv3)

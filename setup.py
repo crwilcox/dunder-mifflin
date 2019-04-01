@@ -27,14 +27,14 @@ with open(readme_path, encoding='utf-8') as f:
 
 setuptools.setup(
     name="dunder-mifflin",
-    version="0.0.2",
+    version="0.0.3",
     description="Out of paper, out of stock. These friendly faces around the "
     + "block. Break loose from the chains that are causing you "
     + "pain. Call Michael, Stanley, Jim, Dwight, or Creed Call Andy "
     + "and Kelly for your business paper needs.",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url="https://crwilcox.com",
+    url="https://github.com/crwilcox/dunder-mifflin",
     author="Chris Wilcox",
     author_email="pypi@crwilcox.com",
     license="Apache 2.0",
