@@ -5,6 +5,8 @@ This packages add `__mifflin__` to all python objects.
     import dunder_mifflin
     'dunder'.__mifflin__()
 
+![Demo](demo.gif)
+
 
 # License
 This packages is distibuted under an Apache License.
